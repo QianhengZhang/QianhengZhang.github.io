@@ -1,9 +1,21 @@
 # Qianheng Zhang
 
 ## Information
-Email: [qianhz2@uw.edu](mailto:qianhz2@uw.edu)
-linkedin: [www.linkedin.com/in/qianheng-zhang/](www.linkedin.com/in/qianheng-zhang/)
-Phone Number: (206)-XXX-XXXX
+![email icon](/img/email-icon.png) Email: [qianhz2@uw.edu](mailto:qianhz2@uw.edu)
+
+![linkedin icon](/img/linkedin-icon.png) linkedin: [https://www.linkedin.com/in/qianheng-zhang/](https://www.linkedin.com/in/qianheng-zhang/)
+
+![phone icon](/img/phone-icon.png)Phone Number: (206)-XXX-XXXX
+
+## About Myself
+1. Favorite animal: cats
+2. Favorite food: hot pot
+3. Favorite moview: Interstellar
+4. Favorite quote:
+
+> A journey of a thousand miles begins with a single step.
+> ------ Laozi, Dao De Jing
+
 
 ## Education
 2019-2023(Expected)
@@ -32,5 +44,31 @@ Phone Number: (206)-XXX-XXXX
 :   * Report everyday progress to the manager and improve my codes with the response.
 
 ## Projects
+03/2022
+:   **Front Back End Website for a Twitter Like SNS**; Web Programming
+:   1. Work on the client-side js to fetch the users' content from the server-side(like a tweet, make a tweet, search a users' history tweet).
+:   2. Connect the server-side js with the database to deal with HTTP requests from the client-side.
+:   3. Check the validation of the content by the request on the server-side. Send back the correct error code to notify the user of error messages.
 
-## Programming skills
+03/2022
+:   **Analyzing Effects of Superfund sites on the Cancer Risk in WA Counties**; GIS and Mapping
+:   1. Collect and clean health and demographical data in 10 years with QGIS and excel.
+:   2. Work on spatial analysis and making maps to reflect the high relevance of
+the geographical positions and cancer rates.
+:   3. Identify one higher public health problems the WA minor groups face due to higher expositions to hazardous matters.
+
+## Skills
+
+### Programming Skills
+* Python(Proficient)
+* SQL(Proficient)
+* QGIS(Intermediate)
+* HTML+CSS+JS(Intermediate)
+* R(Intermediate)
+* Java(Intermediate)
+* Matlab(Basic)
+
+### Soft Skills
+* Problem-solving
+* Time Management
+* Self-learning
