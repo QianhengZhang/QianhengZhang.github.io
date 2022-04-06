@@ -8,9 +8,9 @@
 ![phone icon](/img/phone-icon.png)Phone Number: (206)-XXX-XXXX
 
 ## About Myself
-1. Favorite animal: cats
-2. Favorite food: hot pot
-3. Favorite moview: Interstellar
+1. Favorite animal: [cats](https://en.wikipedia.org/wiki/Cat)
+2. Favorite food: [hot pot](https://en.wikipedia.org/wiki/Hot_pot)
+3. Favorite moview: [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film))
 4. Favorite quote:
 
 > A journey of a thousand miles begins with a single step.
@@ -18,11 +18,15 @@
 
 
 ## Education
-2019-2023(Expected)
+2019 - 2023(Expected)
 :   **Bachelor of Art, Geography: Data Science**; University of Washington；GPA：3.83
 ![The UW cherry blossom](/img/uw-cherry.jpg)
 
-###### Relevant UW coursework
+### Achievement
+01/2020 - now
+:   **Dean's List**: UW awards students who attained 3.50 out of 4.0 GPA quarterly by putting students on the Dean's List
+
+### Relevant UW coursework
 * Computer Programming I and II
 * Intermediate Data Programming
 * Web Programming
@@ -34,14 +38,14 @@
 ## Work Experience
 11/2021 - 01/2022
 :   **Data Analysis Assistant Intern**; CCS Supply Chain Management Co., Ltd.; Shanghai
-:   * Worked with an analyst on researching the annual data of global fossil fuel and coal markets through excel.
-:   * Identified potential key factors(policies and incidents) of the fuel prices for interpreting the trends.
-:   * Formed hypotheses and developed reports to address the trend of fuel markets with regression analysis.
+:   1. Worked with an analyst on researching the annual data of global fossil fuel and coal markets through excel.
+:   2. Identified potential key factors(policies and incidents) of the fuel prices for interpreting the trends.
+:   3. Formed hypotheses and developed reports to address the trend of fuel markets with regression analysis.
 
 06/2021 - 08/2021
 :   **Data Analysis Assistant Intern**; WONDERS INFORMATION CO., Ltd.; Shanghai
-:   * Worked with the team on the javascript-based business data endpoints to make a push the data from the government petition information database to other websites.
-:   * Report everyday progress to the manager and improve my codes with the response.
+:   1. Worked with the team on the javascript-based business data endpoints to make a push the data from the government petition information database to other websites.
+:   2. Report everyday progress to the manager and improve my codes with the response.
 
 ## Projects
 03/2022
