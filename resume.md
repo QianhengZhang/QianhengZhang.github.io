@@ -1,11 +1,11 @@
 # Qianheng Zhang
 
 ## Information
-![email icon](/img/email-icon.png) Email: [qianhz2@uw.edu](mailto:qianhz2@uw.edu)
+![email icon](/assets/email-icon.png) Email: [qianhz2@uw.edu](mailto:qianhz2@uw.edu)
 
-![linkedin icon](/img/linkedin-icon.png) linkedin: [https://www.linkedin.com/in/qianheng-zhang/](https://www.linkedin.com/in/qianheng-zhang/)
+![linkedin icon](/assets/linkedin-icon.png) linkedin: [https://www.linkedin.com/in/qianheng-zhang/](https://www.linkedin.com/in/qianheng-zhang/)
 
-![phone icon](/img/phone-icon.png)Phone Number: (206)-XXX-XXXX
+![phone icon](/assets/phone-icon.png)Phone Number: (206)-XXX-XXXX
 
 ## About Myself
 1. Favorite animal: [cats](https://en.wikipedia.org/wiki/Cat)
@@ -20,7 +20,7 @@
 ## Education
 2019 - 2023(Expected)
 :   **Bachelor of Art, Geography: Data Science**; University of Washington；GPA：3.83
-![The UW cherry blossom](/img/uw-cherry.jpg)
+![The UW cherry blossom](/assets/uw-cherry.jpg)
 
 ### Achievement
 01/2020 - now
