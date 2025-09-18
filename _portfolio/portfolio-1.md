@@ -1,7 +1,10 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hongkong Music Atlas"
+excerpt: "Explore Hong Kong's cultural geography through Cantonese pop music
+ 1<br/><img src='images/hkmatlas.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Discover how Canto-pop songs reference specific neighborhoods, landmarks, and streets across Hong Kong. Each pin on the map represents a lyrical reference, creating a dynamic storytelling experience of the city's musical landscape.
+
+

@@ -1,7 +1,7 @@
 ---
 title: "Mapping Urban Coyote Ecology in Los Angeles: Insights from Citizen Science and Human Mobility Data"
 collection: publications
-category: Thesis
+category: thesis
 permalink: /publication/2025-05-01-coyote-ecology-la
 excerpt: "This thesis investigates the spatial and temporal distributions of urban coyotes in Los Angeles County by integrating citizen science data from iNaturalist with environmental, socioeconomic, and human mobility datasets. Using Random Forest, Geographically Weighted Regression, and structural equation modeling, the study reveals how ecological and anthropogenic factors, including real-time human mobility during the Covid-19 pandemic, shape coyote occurrence and visibility across neighborhoods."
 date: 2025-05-01

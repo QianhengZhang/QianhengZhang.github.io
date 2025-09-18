@@ -12,12 +12,18 @@ redirect_from:
 Education
 ======
 **University of Wisconsin-Madison**
+
 _Ph.D. in Geography/Environment (GeoAI, ML, and LLMs for Spatial & Human Data), Exp. 05/2028_
-_M.S. in Cartography/Geographical Information System, GPA: 3.91/4.0_
+
+
+_M.S. in Cartography/Geographical Information System, GPA: 3.91/4.0_  05/2025
+
+
 _Double M.S. in Computer Science (expected 2026)_
 09/2023 - Exp. 05/2028
 
 **University of Washington-Seattle**
+
 _Bachelor of Art Geography: Data Science, GPA: 3.81/4.0_
 09/2019 - 03/2023
 
@@ -46,12 +52,12 @@ _April 2024 - October 2024_
 - Contributed to a 15% improvement in GIS-specific LLM task accuracy through the design of reproducible workflows and evaluation scripts.
 - Developed a taxonomy of spatial agent task types to improve the scientific rigor of GIS AI benchmarks.
 
-Selected Publications
+<!-- Selected Publications
 ======
 - Chen Z, Chen S, Ning Y, Zhang, Q., et al (2025, April). ScienceAgentbench: Toward rigorous assessment of language agents for data-driven scientific discovery. *International Conference on Learning Representations 2025*.
 - Zhang, Q., Gao, S., Chen, W., Zhao, Y., Nie, Y., Chen, Z., Chen, S., Su, Y., Sun, H. (2025). GeoAnalystBench: A GeoAI benchmark for assessing large language models for spatial analysis workflow and code generation. *Transactions in GIS*. [In Press]
 - Zhang, Q., Paul, D., Miller, M., Morales, M., Gao, S. (2025). Scalable Inter-County Food Flow Prediction Using Graph Neural Networks [Application]. *Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems*.
-- Zhang, Q., Kang, Y., & Roth, R. (2023). The Ethics of AI-Generated Maps: DALL· E 2 and AI’s Implications for Cartography (Short Paper). In *12th International Conference on Geographic Information Science (GIScience 2023)*. Schloss-Dagstuhl-Leibniz Zentrum für Informatik.
+- Zhang, Q., Kang, Y., & Roth, R. (2023). The Ethics of AI-Generated Maps: DALL· E 2 and AI’s Implications for Cartography (Short Paper). In *12th International Conference on Geographic Information Science (GIScience 2023)*. Schloss-Dagstuhl-Leibniz Zentrum für Informatik. -->
 
 {% if site.publications %}
 <ul>
@@ -61,9 +67,9 @@ Selected Publications
 </ul>
 {% endif %}
 
-Conferences
+Conferences Talks
 ======
-**Oral Presentation**
+<!-- **Oral Presentation**
 - *Scalable Inter-County Food Flow Prediction Using Graph Neural Network*
   ACM 2025 SigSpatial, Minneapolis, Minnesota, United States, 11/2025
 - *Automating Geospatial Analysis Workflows Using ChatGPT-4*
@@ -71,7 +77,7 @@ Conferences
 - *Enhancing Wildlife Classification Accuracy in Camera Trap Images using GIS-Enhanced Federated Machine Learning Approaches*
   AAG 2024 Annual Meeting, Honolulu, Hawaii, United States, 04/2024
 - *The Ethics of AI-Generated Maps: DALL· E 2 and AI’s Implications for Cartography*
-  The 12th International Conference on GIScience, Leeds, United Kingdom, 09/2023
+  The 12th International Conference on GIScience, Leeds, United Kingdom, 09/2023 -->
 
 {% if site.talks %}
 <ul>
@@ -110,5 +116,4 @@ Skills
 Service and Leadership
 ======
 - Member, GeoDS Lab, UW–Madison
-- Reviewer, [add relevant journals/conferences if any]
-- [Add any other service/leadership roles as appropriate]
+- Reviewer, ACM SigSpatial Workshop, IJGIS
