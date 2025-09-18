@@ -21,7 +21,7 @@ repository               : "qianhengzhang/qianhengzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio.jpeg"
   name             : "Qianheng Zhang"
   pronouns         : "He/Him"
   bio              : "I am a Ph.D. student at UW–Madison specializing in ML, LLMs, and geospatial AI."

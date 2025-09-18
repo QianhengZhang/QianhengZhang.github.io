@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. student in Cartography and Geographic Information Science at the University of Wisconsin–Madison, advised by Prof. Song Gao in the [Geospatial Data Science Lab](https://geods.geography.wisc.edu/).
+Welcome! I am a Ph.D. student in Cartography and Geographic Information Science at the University of Wisconsin–Madison, advised by Prof. Song Gao in the [Geospatial Data Science Lab](https://geods.geography.wisc.edu/). Previously, I worked with Professor Bo Zhao from the University of Washington-Seattle in [Humanistic GIS Lab](https://hgis.uw.edu/).
 
 My research focuses on the intersection of **artificial intelligence and geospatial analysis**, with an emphasis on **large language models (LLMs), graph neural networks (GNNs), and scalable machine learning pipelines**. I am particularly interested in how people interact with data—not just applying or visualizing it, but designing **human-centered AI systems** that support reasoning, interpretation, and decision-making.
 
