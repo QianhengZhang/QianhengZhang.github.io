@@ -3,7 +3,7 @@ title: "Automating Geospatial Analysis Workflows Using ChatGPT-4"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-29-automating-geoai-chatgpt4
-excerpt: "This study investigates the use of ChatGPT-4 to automate geospatial analysis workflows in GIS by generating ArcPy functions from structured instructions. The approach achieves an 80.5% task success rate, demonstrating its effectiveness and accessibility for domain scientists seeking to automate GIS workflows.<br/> <img src='/images/paper5.png' style='width:500px; height:300px;'>"
+excerpt: "This study investigates the use of ChatGPT-4 to automate geospatial analysis workflows in GIS by generating ArcPy functions from structured instructions. The approach achieves an 80.5% task success rate, demonstrating its effectiveness and accessibility for domain scientists seeking to automate GIS workflows.<br/> <img src='/images/paper5.png' style='width:700px; height:400px;'>"
 date: 2024-10-29
 venue: 'Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems'
 pages: 715-716

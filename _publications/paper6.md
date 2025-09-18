@@ -3,7 +3,7 @@ title: "GeoAnalystBench: A GeoAI benchmark for assessing large language models f
 collection: publications
 category: manuscripts
 permalink: /publication/2025-09-07-geoanalystbench
-excerpt: "We introduce GeoAnalystBench, a benchmark of 50 Python-based geoprocessing tasks for evaluating large language models (LLMs) in geospatial analysis and GIS workflow automation. Our results reveal a significant performance gap between proprietary and open-source models, highlighting both the promise and current limitations of LLMs for GeoAI. <br/> <img src='/images/paper6.png' style='width:500px; height:300px;'>"
+excerpt: "We introduce GeoAnalystBench, a benchmark of 50 Python-based geoprocessing tasks for evaluating large language models (LLMs) in geospatial analysis and GIS workflow automation. Our results reveal a significant performance gap between proprietary and open-source models, highlighting both the promise and current limitations of LLMs for GeoAI. <br/> <img src='/images/paper6.png' style='width:500px; height:400px;'>"
 date: 2025-09-07
 venue: 'arXiv, under review for Transaction in GIS'
 paperurl: 'https://arxiv.org/pdf/2509.05881.pdf'
