@@ -3,12 +3,12 @@ title: "FLEE-GNN: a federated learning system for edge-enhanced graph neural net
 collection: publications
 category: conferences
 permalink: /publication/2023-11-13-flee-gnn
-excerpt: "We propose FLEE-GNN, a novel Federated Learning System for Edge-Enhanced Graph Neural Network, to analyze the geospatial resilience of multicommodity food flow networks. FLEE-GNN addresses challenges in generalizability, scalability, and data privacy, combining the strengths of graph neural networks and federated learning for robust, privacy-preserving analysis of food supply network resilience across regions."
+excerpt: "We propose FLEE-GNN, a novel Federated Learning System for Edge-Enhanced Graph Neural Network, to analyze the geospatial resilience of multicommodity food flow networks. FLEE-GNN addresses challenges in generalizability, scalability, and data privacy, combining the strengths of graph neural networks and federated learning for robust, privacy-preserving analysis of food supply network resilience across regions.<br/> <img src='/images/paper3.png' style='width:500px; height:300px;'>"
 date: 2023-11-13
 venue: 'Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery'
 pages: 63-72
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3615886.3627742'
-citation: 'Yuxiao Qu, Jinmeng Rao, Song Gao, Qianheng Zhang, Wei-Lun Chao, Yu Su, Michelle Miller, Alfonso Morales, Patrick R Huber. (2023). "FLEE-GNN: a federated learning system for edge-enhanced graph neural network in analyzing geospatial resilience of multicommodity food flows." In <i>Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery</i>, pp. 63-72.'
+
 authors:
   - Yuxiao Qu
   - Jinmeng Rao

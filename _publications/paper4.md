@@ -3,7 +3,7 @@ title: "AutoSDT: Scaling Data-Driven Discovery Tasks Toward Open Co-Scientists"
 collection: publications
 category: conferences
 permalink: /publication/2025-06-09-autosdt
-excerpt: "We present AutoSDT, an automatic pipeline for collecting high-quality coding tasks in real-world data-driven scientific discovery workflows. AutoSDT-5K, the resulting dataset, contains 5,404 coding tasks across four scientific disciplines and 756 unique Python packages, enabling the training of LLM-based co-scientists. Models trained on AutoSDT-5K, dubbed AutoSDT-Coder, achieve state-of-the-art results on ScienceAgentBench and DiscoveryBench, closing the gap with proprietary models."
+excerpt: "We present AutoSDT, an automatic pipeline for collecting high-quality coding tasks in real-world data-driven scientific discovery workflows. AutoSDT-5K, the resulting dataset, contains 5,404 coding tasks across four scientific disciplines and 756 unique Python packages, enabling the training of LLM-based co-scientists. Models trained on AutoSDT-5K, dubbed AutoSDT-Coder, achieve state-of-the-art results on ScienceAgentBench and DiscoveryBench, closing the gap with proprietary models.<br/> <img src='/images/paper4.png' style='width:500px; height:300px;'>"
 date: 2025-11-04
 venue: 'EMNLP 2025'
 paperurl: 'https://arxiv.org/pdf/2506.08140.pdf'
