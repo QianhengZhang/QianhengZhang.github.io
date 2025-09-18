@@ -7,7 +7,7 @@ excerpt: "This study investigates the use of ChatGPT-4 to automate geospatial an
 date: 2024-10-29
 venue: 'Proceedings of the 32nd ACM International Conference on Advances in Geographic Information Systems'
 pages: 715-716
-paperurl: 'https://dl.acm.org/doi/10.1145/3627692.3630772'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3678717.3595760'
 authors:
   - Qianheng Zhang
   - Song Gao

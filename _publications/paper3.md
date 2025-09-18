@@ -7,7 +7,7 @@ excerpt: "We propose FLEE-GNN, a novel Federated Learning System for Edge-Enhanc
 date: 2023-11-13
 venue: 'Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery'
 pages: 63-72
-paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3629836.3629845'
+paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3615886.3627742'
 citation: 'Yuxiao Qu, Jinmeng Rao, Song Gao, Qianheng Zhang, Wei-Lun Chao, Yu Su, Michelle Miller, Alfonso Morales, Patrick R Huber. (2023). "FLEE-GNN: a federated learning system for edge-enhanced graph neural network in analyzing geospatial resilience of multicommodity food flows." In <i>Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery</i>, pp. 63-72.'
 authors:
   - Yuxiao Qu
