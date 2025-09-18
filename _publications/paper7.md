@@ -3,7 +3,7 @@ title: "Mapping Urban Coyote Ecology in Los Angeles: Insights from Citizen Scien
 collection: publications
 category: thesis
 permalink: /publication/2025-05-01-coyote-ecology-la
-excerpt: "This thesis investigates the spatial and temporal distributions of urban coyotes in Los Angeles County by integrating citizen science data from iNaturalist with environmental, socioeconomic, and human mobility datasets. Using Random Forest, Geographically Weighted Regression, and structural equation modeling, the study reveals how ecological and anthropogenic factors, including real-time human mobility during the Covid-19 pandemic, shape coyote occurrence and visibility across neighborhoods. <br/> <img src='/images/paper7.png' style='width:500px; height:500px;'>"
+excerpt: "This thesis investigates the spatial and temporal distributions of urban coyotes in Los Angeles County by integrating citizen science data from iNaturalist with environmental, socioeconomic, and human mobility datasets. Using Random Forest, Geographically Weighted Regression, and structural equation modeling, the study reveals how ecological and anthropogenic factors, including real-time human mobility during the Covid-19 pandemic, shape coyote occurrence and visibility across neighborhoods. <br/> <img src='/images/paper7.png' style='width:500px; height:450px;'>"
 date: 2025-05-01
 venue: 'M.S. Thesis, University of Wisconsin–Madison'
 paperurl: 'http://digital.library.wisc.edu/1793/95184'

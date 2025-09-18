@@ -3,7 +3,7 @@ title: "FLEE-GNN: a federated learning system for edge-enhanced graph neural net
 collection: publications
 category: conferences
 permalink: /publication/2023-11-13-flee-gnn
-excerpt: "We propose FLEE-GNN, a novel Federated Learning System for Edge-Enhanced Graph Neural Network, to analyze the geospatial resilience of multicommodity food flow networks. FLEE-GNN addresses challenges in generalizability, scalability, and data privacy, combining the strengths of graph neural networks and federated learning for robust, privacy-preserving analysis of food supply network resilience across regions.<br/> <img src='/images/paper3.png' style='width:700px; height:300px;'>"
+excerpt: "We propose FLEE-GNN, a novel Federated Learning System for Edge-Enhanced Graph Neural Network, to analyze the geospatial resilience of multicommodity food flow networks. FLEE-GNN addresses challenges in generalizability, scalability, and data privacy, combining the strengths of graph neural networks and federated learning for robust, privacy-preserving analysis of food supply network resilience across regions.<br/> <img src='/images/paper3.png' style='width:600px; height:300px;'>"
 date: 2023-11-13
 venue: 'Proceedings of the 6th ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery'
 pages: 63-72
