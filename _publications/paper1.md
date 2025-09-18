@@ -6,9 +6,8 @@ permalink: /publication/2025-04-28-scienceagentbench
 excerpt: "We present ScienceAgentBench, a new benchmark for evaluating language agents for data-driven scientific discovery. ScienceAgentBench consists of 102 tasks extracted from 44 peer-reviewed publications across four disciplines, validated by nine subject matter experts. Each task requires generating a self-contained Python program, and is evaluated using multiple metrics on program correctness, execution, and cost. We assess five open-weight and proprietary LLMs with three frameworks, finding that the best-performing agent solves only 32.4% of tasks independently and 34.3% with expert knowledge. Our results highlight the need for rigorous, task-level assessment before making claims about end-to-end scientific automation."
 date: 2025-04-28
 venue: 'ICLR 2025'
-slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2410.05080'
-citation: 'Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun. (2025). "ScienceAgentBench: Toward rigorous assessment of language agents for data-driven scientific discovery." <i>ICLR 2025</i>.'
+
 authors:
   - Ziru Chen
   - Shijie Chen
